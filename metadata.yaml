@@ -1,0 +1,32 @@
+_repo: Nature-and-Culture_38022
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rice, Harvey
+    birthdate: 1800
+    deathdate: 1891
+    gutenberg_agent_id: '39204'
+    url: http://www.gutenberg.org/2009/agents/39204
+    wikipedia: http://en.wikipedia.org/wiki/Harvey_Rice
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38022'
+  lccn: 08033400
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcc 'HN'
+- !lcsh 'Social problems'
+tableOfContents: Nature and her lessons -- Education of the masses -- Woman and her
+  sphere -- Aim high -- America and her future -- Career of Rev. Joseph Badger --
+  Mission monument.
+title: Nature and Culture
+url: http://www.gutenberg.org/ebooks/38022
